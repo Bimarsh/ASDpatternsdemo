@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="false" key="/ASDAssignment2/model.uml:DISPLAY_CU"/>
+	<item value="true" key="/ASDAssignment2/ASDAssignment2.uml:DISPLAY_MODEL"/>
+	<item value="true" key="/ASDAssignment2/ASDAssignment2.uml:DISPLAY_PACKAGES"/>
+	<item value="1" key="/ASDAssignment2/ASDAssignment2.umlASDAssignment2:selectedParserIndex"/>
+	<item value="ASDAssignment2" key="/ASDAssignment2/model.umlASDAssignment2:projectName"/>
+	<item value="0" key="/ASDAssignment2/model.umlASDAssignment2:selectedParserIndex"/>
+	<item value="false" key="/ASDAssignment2/model.uml:DISPLAY_PACKAGES"/>
+	<item value="true" key="/ASDAssignment2/ASDAssignment2.uml:DISPLAY_CU"/>
+	<item value="true" key="/ASDAssignment2/model.uml:DISPLAY_MODEL"/>
+	<item value="ASDAssignment2" key="/ASDAssignment2/ASDAssignment2.umlASDAssignment2:projectName"/>
+	<list key="/ASDAssignment2/model.umlASDAssignment2:creationpaths">
+		<item value="java.* ; ; java"/>
+		<item value="org.eclipse.papyrus.* ; ; *"/>
+		<item value="org.eclipse.* ; org.eclipse.papyrus.* ; *"/>
+		<item value=" org.osgi.* ; ; osgi.*"/>
+		<item value=" datatype.* ; ; datatype"/>
+	</list>
+	<list key="/ASDAssignment2/ASDAssignment2.umlASDAssignment2:searchpaths">
+		<item value="java"/>
+		<item value="*"/>
+		<item value="osgi.*"/>
+		<item value="datatype"/>
+	</list>
+	<list key="/ASDAssignment2/model.umlASDAssignment2:searchpaths">
+		<item value="java"/>
+		<item value="*"/>
+		<item value="osgi.*"/>
+		<item value="datatype"/>
+	</list>
+	<list key="/ASDAssignment2/ASDAssignment2.umlASDAssignment2:creationpaths">
+		<item value="java.* ; ; java"/>
+		<item value="org.eclipse.papyrus.* ; ; *"/>
+		<item value="org.eclipse.* ; org.eclipse.papyrus.* ; *"/>
+		<item value=" org.osgi.* ; ; osgi.*"/>
+		<item value=" datatype.* ; ; datatype"/>
+	</list>
+</section>

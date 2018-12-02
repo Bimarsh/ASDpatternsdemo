@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.account.AccountChangeSubjects&apos; to &apos;AccountChangeObservarable&apos;&#x0A;- Original project: &apos;ASDAssignment2&apos;&#x0A;- Original element: &apos;com.account.AccountChangeSubjects&apos;&#x0A;- Renamed element: &apos;com.account.AccountChangeObservarable&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AccountChangeSubjects&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.account{AccountChangeSubjects.java[AccountChangeSubjects" matchStrategy="1" name="AccountChangeObservarable" qualified="false" references="true" similarDeclarations="false" stamp="1530416717330" textual="false" version="1.0"/>
+</session>

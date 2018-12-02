@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_cYxjYHy5EeiqTOnWmq1w7Q" type="PapyrusUMLClassDiagram" name="NewClassDiagram" measurementUnit="Pixel">
+  <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Iu-8gHy9EeiqTOnWmq1w7Q" source="PapyrusCSSForceValue">
+    <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Iu-8gXy9EeiqTOnWmq1w7Q" key="canonical" value="true"/>
+  </eAnnotations>
+  <children xmi:type="notation:Shape" xmi:id="_IwNEgHy9EeiqTOnWmq1w7Q" type="Package_Shape">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_IyQ6AHy9EeiqTOnWmq1w7Q" source="PapyrusCSSForceValue">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_IyRhEHy9EeiqTOnWmq1w7Q" key="mutable" value="true"/>
+    </eAnnotations>
+    <children xmi:type="notation:DecorationNode" xmi:id="_IwNrkXy9EeiqTOnWmq1w7Q" type="Package_NameLabel"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_IwNrkny9EeiqTOnWmq1w7Q" type="Package_PackagedElementCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_IwNrk3y9EeiqTOnWmq1w7Q"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IwNrlHy9EeiqTOnWmq1w7Q"/>
+    </children>
+    <element xmi:type="uml:Package" href="ASDAssignment2.uml#_fQzgcHy5EeiqTOnWmq1w7Q"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IwNrkHy9EeiqTOnWmq1w7Q" x="1440" y="340"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_IwOSoHy9EeiqTOnWmq1w7Q" type="Package_Shape">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_IyRhEXy9EeiqTOnWmq1w7Q" source="PapyrusCSSForceValue">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_IyRhEny9EeiqTOnWmq1w7Q" key="mutable" value="true"/>
+    </eAnnotations>
+    <children xmi:type="notation:DecorationNode" xmi:id="_IwOSony9EeiqTOnWmq1w7Q" type="Package_NameLabel"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_IwO5sHy9EeiqTOnWmq1w7Q" type="Package_PackagedElementCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_IwO5sXy9EeiqTOnWmq1w7Q"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IwO5sny9EeiqTOnWmq1w7Q"/>
+    </children>
+    <element xmi:type="uml:Package" href="ASDAssignment2.uml#_fSOcwHy5EeiqTOnWmq1w7Q"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IwOSoXy9EeiqTOnWmq1w7Q" x="1700" y="340"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_cYxjYXy5EeiqTOnWmq1w7Q" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_cYxjYny5EeiqTOnWmq1w7Q"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_cYxjY3y5EeiqTOnWmq1w7Q" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+    <owner xmi:type="uml:Model" href="ASDAssignment2.uml#_wG0GMHy3EeiqTOnWmq1w7Q"/>
+  </styles>
+  <styles xmi:type="notation:CanonicalStyle" xmi:id="_Iu-VcHy9EeiqTOnWmq1w7Q"/>
+  <element xmi:type="uml:Model" href="ASDAssignment2.uml#_wG0GMHy3EeiqTOnWmq1w7Q"/>
+</notation:Diagram>

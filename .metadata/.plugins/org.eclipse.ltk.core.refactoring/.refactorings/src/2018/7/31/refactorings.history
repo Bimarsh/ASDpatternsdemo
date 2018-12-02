@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 packages to &apos;ASDCommandPattern/src&apos;&#x0A;- Original project: &apos;src&apos;&#x0A;- Destination element: &apos;ASDCommandPattern/src&apos;&#x0A;- Original elements:&#x0A;     src/bank.service&#x0A;     src/bank.domain&#x0A;     src/bank.dao&#x0A;     src/bank" description="Copy packages" destination="=ASDCommandPattern/src" element1="/&lt;bank.service" element2="/&lt;bank.domain" element3="/&lt;bank.dao" element4="/&lt;bank" flags="589830" fragments="4" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1532892788608" version="1.0"/>
+</session>

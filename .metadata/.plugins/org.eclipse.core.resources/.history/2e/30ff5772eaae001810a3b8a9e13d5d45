@@ -1,0 +1,13 @@
+package bank;
+
+public class Solution {
+
+	static String getShiftedString(String s, int leftShifts, int rightShifts) {
+
+        char[] arr= s.toCharArray();
+        char temp;
+        
+
+    }
+
+}

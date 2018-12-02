@@ -1,0 +1,21 @@
+package bank;
+
+public class Solution {
+
+	static String getShiftedString(String s, int leftShifts, int rightShifts) {
+
+        if(leftShifts>=0&& leftShifts<Math.pow(10, 5))
+        {
+        	for(int i=0;i<s.length();i++)
+        	{
+        		Character first= s.charAt(0);
+        		String remains= s.substring(0);
+        		remains= remains.concat(first.toString());
+        		
+        	}
+        }
+        
+
+    }
+
+}
